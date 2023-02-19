@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T22:02:38.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="daN7DFSO3xhnax3MmpOR" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-19T23:13:14.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UM42EjAcEPxxDq855qrZ" version="20.8.20" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2100" dy="1146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -608,7 +608,7 @@
             <mxRectangle width="64" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jlqVL0GaNmHU8PocGjJK-170" value="Rating varchar(2)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="jlqVL0GaNmHU8PocGjJK-168" vertex="1">
+        <mxCell id="jlqVL0GaNmHU8PocGjJK-170" value="Rating varchar(2) not null" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="jlqVL0GaNmHU8PocGjJK-168" vertex="1">
           <mxGeometry x="64" width="224" height="30" as="geometry">
             <mxRectangle width="224" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -676,7 +676,7 @@
             <mxRectangle width="64" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jlqVL0GaNmHU8PocGjJK-180" value="Rating varchar(10)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="jlqVL0GaNmHU8PocGjJK-178" vertex="1">
+        <mxCell id="jlqVL0GaNmHU8PocGjJK-180" value="Rating varchar(2) not null" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" parent="jlqVL0GaNmHU8PocGjJK-178" vertex="1">
           <mxGeometry x="64" width="224" height="30" as="geometry">
             <mxRectangle width="224" height="30" as="alternateBounds" />
           </mxGeometry>
