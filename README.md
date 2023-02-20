@@ -14,4 +14,4 @@ Members,
 Atraction_rating_employee,
 Atraction_rating_members.
 
-![Alt text](/DB_1.drawio.png?raw=false "First database model")
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
