@@ -13,3 +13,5 @@ Employee,
 Members,
 Atraction_rating_employee,
 Atraction_rating_members.
+
+![Alt text](/DB_1.drawio.png?raw=false "First database model")
