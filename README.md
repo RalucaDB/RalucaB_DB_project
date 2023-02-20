@@ -3,13 +3,13 @@ Proiect GIS pentru cartarea obiectivelor turistice din Municipiul Timișoara car
 
 Entitati/tabele:
 
-Atractions
-Atraction type
-Health facilities
-Parks
-Water fountains
-Neighborhood
-Employee
-Members
-Atraction_rating_employee
-Atraction_rating_members
+Atractions,
+Atraction type,
+Health facilities,
+Parks,
+Water fountains,
+Neighborhood,
+Employee,
+Members,
+Atraction_rating_employee,
+Atraction_rating_members.
